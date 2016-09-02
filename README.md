@@ -7,8 +7,8 @@ bottom of github's main page).
 
 You can notice that I used ocaml-containers in this example to match the string,
 but feel free to use whichever your want.
-
 Note also that xhtml titles are not handled in this example.
+Of course, you can also change the code to parse RSS (1 or 2) instead of Atom.
 
 Syndic documentation: https://cumulus.github.io/Syndic/
 
