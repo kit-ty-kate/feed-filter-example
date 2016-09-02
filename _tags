@@ -1,0 +1,5 @@
+true: warn(A-42)
+true: safe_string
+
+true: package(containers)
+true: package(syndic)
