@@ -1,5 +1,0 @@
-PKG containers
-PKG syndic
-
-S .
-B _build
