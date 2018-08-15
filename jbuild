@@ -1,6 +1,0 @@
-(jbuild_version 1)
-
-(executable
- ((name feedfilter)
-  (flags (:standard -w A-42 -safe-string))
-  (libraries (containers syndic))))

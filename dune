@@ -1,0 +1,4 @@
+(executable
+  (name feedfilter)
+  (flags :standard -w A-42 -safe-string)
+  (libraries containers syndic))
